@@ -1,0 +1,17 @@
+Day,Time,Kid,Sales,Donations,Lemonade By Cup,Cookies
+Sat,9,Bess,127,0,42,32
+Sat,10,Bess,103,0,34,26
+Sat,11,Nancy,37,32,12,9
+Sat,12,Nancy,30,17,10,8
+Sat,1,George,172,37,57,43
+Sat,2,George,107,34,36,27
+Sat,3,Ned,51,2,17,13
+Sat,4,Ned,,45,,
+Sun,9,Ned,12,30,4,3
+Sun,10,Ned,3,12,1,1
+Sun,11,Nancy,178,21,59,45
+Sun,12,Nancy,97,13,32,24
+Sun,1,George,75,17,25,19
+Sun,2,George,74,32,25,19
+Sun,3,Bess,104,20,35,26
+Sun,4,Bess,30,50,,10
