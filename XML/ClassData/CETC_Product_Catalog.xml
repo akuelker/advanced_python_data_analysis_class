@@ -1,0 +1,17 @@
+<catalog>
+	<product SKU="23079">
+		<item>Java</item>
+		<description>Coffee from the island of Java, best coffee for programming Java</description>
+		<price>$9.99</price>
+	</product>
+	<product SKU="01623">
+		<item>SQL Serving Plate</item>
+		<description>The perfect serving plate for all your database upgrade parties. Comes in Microsoft, Oracle or MySQL</description>
+		<price>$29.99</price>
+	</product>
+		<product SKU="11223">
+		<item>C# tuning fork</item>
+		<description>Perfect for tuning up your instrumentation</description>
+		<price>$19.25</price>
+	</product>
+<product SKU="41234"><name>Python Fuzzy Snake</name><description>A Python snake to welcome your Pythonista friends to your cube</description><price>39.95</price></product><product SKU="41234"><name>Python Fuzzy Snake</name><description>A Python snake to welcome your Pythonista friends to your cube</description><price inStore="no">39.95</price></product></catalog>
